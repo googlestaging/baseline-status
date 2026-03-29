@@ -20,7 +20,7 @@
     "@open-wc/semantic-dom-diff": "^0.20.1",
     "@open-wc/testing": "^4.0.0",
     "@rollup/plugin-node-resolve": "^15.2.3",
-    "@rollup/plugin-terser": "^0.4.4",
+    "@rollup/plugin-terser": "^1.0.0",
     "@web/dev-server": "^0.4.4",
     "@web/dev-server-legacy": "^2.1.1",
     "@web/rollup-plugin-html": "^2.3.0",
